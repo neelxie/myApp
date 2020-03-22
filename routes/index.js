@@ -7,3 +7,5 @@ router.get('/', index.landing);
 /* line is crucial */
 
 module.exports = router;
+
+/* file for landing index */
